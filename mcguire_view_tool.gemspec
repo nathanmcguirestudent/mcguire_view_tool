@@ -6,12 +6,12 @@ require 'mcguire_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "mcguire_view_tool"
   spec.version       = McguireViewTool::VERSION
-  spec.authors       = ["Jordan Hudgens"]
-  spec.email         = ["jordan@devcamp.com"]
+  spec.authors       = ["Nathan McGuire"]
+  spec.email         = ["someasything@gmail.com"]
 
   spec.summary       = %q{this is a short summary}
   spec.description   = %q{this is just a longer line than the one before}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "http://devcamp.com"
 
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
