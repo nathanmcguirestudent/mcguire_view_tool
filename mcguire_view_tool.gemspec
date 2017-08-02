@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{this is a short summary}
   spec.description   = %q{this is just a longer line than the one before}
   spec.homepage      = "http://devcamp.com"
+  spec.license       = "MIT"
 
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
